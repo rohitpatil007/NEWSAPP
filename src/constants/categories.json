@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Business",
+        "value": "Business"
+    },
+    {
+        "id": 2,
+        "name": "Cars",
+        "value": "Cars"
+    },
+    {
+        "id": 3,
+        "name": "Entertainment",
+        "value": "Entertainment"
+    },
+    {
+        "id": 4,
+        "name": "Family",
+        "value": "Family"
+    },
+    {
+        "id": 5,
+        "name": "Health",
+        "value": "Health"
+    },
+    {
+        "id": 6,
+        "name": "Politics",
+        "value": "Politics"
+    },
+    {
+        "id": 7,
+        "name": "Religion",
+        "value": "Religion"
+    },
+    {
+        "id": 8,
+        "name": "Science",
+        "value": "Science"
+    }
+]
